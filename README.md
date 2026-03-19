@@ -15,7 +15,7 @@
 - 🎯 **智能提取** - 自动识别正文内容，去除广告和导航
 
 ## 📦 安装
-
+### **首先下载web-to-md-extension.zip，[点击下载](https://github.com/wuzhidemao/web-to-md-extension/releases/tag/%E5%8F%91%E8%A1%8C)**
 ### 开发者模式加载
 
 1. 打开 Edge 浏览器，访问 `edge://extensions/`
