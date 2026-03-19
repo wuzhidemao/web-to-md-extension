@@ -10,7 +10,7 @@
 - 🚀 一键发布到GitHub仓库
 
 ## 安装步骤
-
+### **首先下载web-to-md-extension.zip，[点击下载](https://github.com/wuzhidemao/web-to-md-extension/releases/tag/%E5%8F%91%E8%A1%8C)**
 ### 方法一：开发者模式加载（推荐）
 
 1. **打开Edge扩展管理页面**
